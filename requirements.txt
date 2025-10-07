@@ -4,4 +4,4 @@ keyboard==0.13.5
 mss==10.1.0
 numpy==2.3.3
 opencv_contrib_python==4.12.0.88
-python-socketio==5.13.0
+python-socketio==5.14.0
